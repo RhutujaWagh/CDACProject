@@ -9,9 +9,9 @@ import matplotlib.pyplot as plt
 
 
 
-books = pd.read_csv('Cleaned Data/cleaned_books.csv')
-users = pd.read_csv('Cleaned Data/cleaned_users.csv')
-ratings = pd.read_csv('Cleaned Data/cleaned_ratings.csv')
+books = pd.read_csv('CleanData/Books.csv')
+users = pd.read_csv('CleanData/Users.csv')
+ratings = pd.read_csv('CleanData/Ratings.csv')
 
 
 if __name__ == "__main__":
