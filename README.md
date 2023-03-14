@@ -9,5 +9,5 @@ The objective of this project is to develop a book recommendation application fo
 
 # Demo link:
 
-https://rhutujawagh-bsrproject-app-z1jefh.streamlit.app/
+https://rhutujawagh-cdacproject-app-gvepc7.streamlit.app/
 
